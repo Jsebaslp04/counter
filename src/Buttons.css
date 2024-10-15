@@ -1,0 +1,32 @@
+.button_option {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 50px;
+}
+
+.increment {
+    background-color: green;
+    padding: 10px 20px 10px 20px;
+    color: aliceblue;
+    font-weight: bold;
+    border: solid;
+    border-radius: 7px;
+}
+
+.decrement {
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    color: aliceblue;
+    font-weight: bold;
+    border: solid;
+    border-radius: 7px;
+}
+
+.reset {
+    background-color: gray;
+    padding: 10px 20px 10px 20px;
+    color: aliceblue;
+    font-weight: bold;
+    border: solid;
+    border-radius: 7px;
+}
